@@ -36,7 +36,7 @@ jaxb-api = { module = "javax.xml.bind:jaxb-api", version = "2.3.1" }
 
 jaxb-core = { module = "com.sun.xml.bind:jaxb-core", version = "2.3.0.1" }
 
-jaxb-impl = { module = "com.sun.xml.bind:jaxb-impl", version = "2.3.9" }
+jaxb-impl = { module = "com.sun.xml.bind:jaxb-impl", version = "4.0.6" }
 
 junit4 = { module = "junit:junit", version = "4.+" }
 
