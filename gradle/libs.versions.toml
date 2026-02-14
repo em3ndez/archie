@@ -4,7 +4,7 @@ antlr = "4.13.2"
 jackson = "2.21.0"
 jackson_annotations = "2.21"
 
-slf4j = "1.7.36"
+slf4j = "2.0.17"
 
 [plugins]
 nexus-publish = { id = "io.github.gradle-nexus.publish-plugin", version = "2.0.0" }
